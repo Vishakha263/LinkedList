@@ -1,7 +1,4 @@
 
-
-
-
 #function Template for python3
 
 """
